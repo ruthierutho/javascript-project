@@ -1,4 +1,4 @@
-# javascript-project
+# fruits-app-javascript-project
 
 Fruits of the World version 1.0.1
 
